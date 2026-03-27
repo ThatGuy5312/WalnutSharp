@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalnutSharp", "WalnutSharp\WalnutSharp.csproj", "{8B95DFE5-F995-4737-A640-017085C64592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{7FC162F0-6C3A-4250-8B4B-1BF20D2DB978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B95DFE5-F995-4737-A640-017085C64592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B95DFE5-F995-4737-A640-017085C64592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B95DFE5-F995-4737-A640-017085C64592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B95DFE5-F995-4737-A640-017085C64592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC162F0-6C3A-4250-8B4B-1BF20D2DB978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC162F0-6C3A-4250-8B4B-1BF20D2DB978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC162F0-6C3A-4250-8B4B-1BF20D2DB978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC162F0-6C3A-4250-8B4B-1BF20D2DB978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4864A8-F579-4F64-91EB-63FD4FF9E7D5}
+	EndGlobalSection
+EndGlobal
